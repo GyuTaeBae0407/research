@@ -1,0 +1,16 @@
+amount,drivetrain,payment_year,disadvantaged,publicorprivate,grossvehicleweight,manufacturer,vocationaluse,infrastructure,county,assemblydistrict,senatedistrict,air_district,censustract,fleetzipcode
+40000,HV,2010,Yes,Public,"33,001 and up",New Flyer of America,Bus - Heavy Duty/Transit,No,Los Angeles County,Assembly District 62,Senate District 35,South Coast AQMD,Tract 06037602900,ZIP Code 90247
+21184.08,HV,2013,No,Public,"26,001 - 33,000",Navistar,Bus - Heavy Duty/Transit,No,Mendocino County,Assembly District 02,Senate District 02,Mendocino County AQMD,Tract 06045011700,ZIP Code 95482
+101000,ZEV-BEV,2017,No,Private,"33,001 and up","BYD Motors, Inc.",Bus - Heavy Duty/Transit,No,Los Angeles County,Assembly District 54,Senate District 26,South Coast AQMD,Tract 06037265301,ZIP Code 90095
+85000,ZEV-BEV,UnRedeemed,No,Public,"19,501 - 26,000",Lion Electric Co. USA,Bus - Heavy Duty/Transit,No,Placer County,Assembly District 05,Senate District 01,Placer County APCD,Tract 06061020300,ZIP Code 95603
+75000,ZEV-BEV,UnRedeemed,Yes,Public,"14,001 - 19,500","BYD Motors, Inc.",Bus - Heavy Duty/Transit,No,Fresno County,Assembly District 31,Senate District 14,San Joaquin Valley Unified APCD,Tract 06019007004,ZIP Code 93662
+85000,ZEV-BEV,UnRedeemed,Yes,Private,"26,001 - 33,000",ARBOC,Bus - Heavy Duty/Transit,No,Los Angeles County,Assembly District 62,Senate District 26,South Coast AQMD,Tract 06037980028,ZIP Code 90045
+85000,ZEV-BEV,UnRedeemed,Yes,Private,"19,501 - 26,000","Motiv Power Systems, Inc.",Bus - Heavy Duty/Transit,No,Contra Costa County,Assembly District 14,Senate District 07,Bay Area AQMD,Tract 06013312000,ZIP Code 94565
+120000,ZEV-BEV,UnRedeemed,Yes,Private,"33,001 and up",Volvo,Bus - Heavy Duty/Transit,No,San Bernardino County,Assembly District 47,Senate District 20,South Coast AQMD,Tract 06071004003,ZIP Code 92377
+60000,ZEV-BEV,UnRedeemed,Yes,Public,"14,001 - 19,500",Lightning Systems,Bus - Heavy Duty/Transit,No,Fresno County,Assembly District 31,Senate District 14,San Joaquin Valley Unified APCD,Tract 06019001900,ZIP Code 93721
+85000,ZEV-BEV,UnRedeemed,No,Private,"19,501 - 26,000","Motiv Power Systems, Inc.",Bus - Heavy Duty/Transit,No,Orange County,Assembly District 69,Senate District 34,South Coast AQMD,Tract 06059086303,ZIP Code 92805
+22500,ZEV-BEV,UnRedeemed,No,Private,"10,001 - 14,000",Lightning Systems,Bus - Heavy Duty/Transit,No,Santa Clara County,Assembly District 27,Senate District 15,Bay Area AQMD,Tract 06085500300,ZIP Code 95126
+25000,HV,2011,Yes,Public,"14,001 - 19,500",Ford,Bus - Medium Duty,No,Los Angeles County,Assembly District 57,Senate District 22,South Coast AQMD,Tract 06037433700,ZIP Code 91733
+50000,ZEV-BEV,2015,Yes,Private,"10,001 - 14,000",Phoenix Electric Sales,Bus - Medium Duty,No,Los Angeles County,Assembly District 53,Senate District 24,South Coast AQMD,Tract 06037212304,ZIP Code 90010
+60000,ZEV-BEV,2015,No,Private,"10,001 - 14,000",Phoenix Electric Sales,Bus - Medium Duty,No,Los Angeles County,Assembly District 43,Senate District 25,South Coast AQMD,Tract 06037460501,ZIP Code 91109
+99000,ZEV-BEV,UnRedeemed,No,Public,"14,001 - 19,500",Optimal-Electric Vehicle,Bus - School,No,Amador County,Assembly District 05,Senate District 08,Amador County APCD,Tract 06005000303,ZIP Code 95685
